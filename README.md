@@ -1,4 +1,5 @@
 # Product-and-Customer-Management-System
+- Using text files not database
 ## Overview
 This C++ program is a simple Product and Customer Management System that allows users to manage products and customer details. The system provides functionalities such as adding new products, searching for products, categorizing products, adding and editing customer details, recording purchases, handling product returns, checking restock levels, and generating restock summaries.
 
